@@ -1,4 +1,4 @@
-# trajectory_analysis_v2
+# Trajectory Analysis
 compute multiple parameters from 2D spatio-temporal trajectories
 
 # trajectory_analysis
