@@ -1,8 +1,5 @@
 # Trajectory Analysis
-compute multiple parameters from 2D spatio-temporal trajectories
-
-# trajectory_analysis
-compute multiple parameters from a 2D trajectory based on MSD analysis
+compute multiple parameters from 2D spatio-temporal trajectories based on MSD analysis
 
 #### use `Trajectory` to construct an object from X,Y coordinates
 
